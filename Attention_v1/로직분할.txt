@@ -1,0 +1,5 @@
+[HPE_webcam 로직]
+
+1. mp_face_mesh 
+ - 미디어 파이프내의 face_mesh 를 가져온다
+ - 
